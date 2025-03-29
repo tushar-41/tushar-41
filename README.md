@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm Tushar Kumar.
+I have just completed my full stack developmnet in MERN stack.
 <!--
 **tushar-41/tushar-41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
