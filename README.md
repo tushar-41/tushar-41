@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Tushar Kumar.
-I have just completed my full stack developmnet in MERN stack.
+I have interest in making smooth website with modern UI
 <!--
 **tushar-41/tushar-41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
