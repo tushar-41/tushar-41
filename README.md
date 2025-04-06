@@ -49,7 +49,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tushar-41/tushar-41/output/snake.svg" alt="Snake animation" />
-
 ###
 
