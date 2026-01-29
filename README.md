@@ -1,30 +1,74 @@
-# 💫 About Me:
-👋 Hi, I'm Tushar Kumar! A passionate developer and tech enthusiast always eager to learn and create innovative solutions. 💻🚀
+<div align="center">
+  <h1>👋 Hi, I'm Tushar Kumar</h1>
+</div>
 
-# 💻 Tech Stack:
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+<div align="center">
+  <a href="#" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/tushar46" target="_blank">LinkedIn</a> •
+  <a href="https://x.com/tushar__46" target="_blank">X (Twitter)</a>
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tushar-41&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tushar-41&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
+<div align="center">
+<img src="https://tenor.com/view/coding-gif-18657810.gif" style="width: 100%" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar46) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tushar__46) 
+<br>
 
+<div align="center">
+<p>
+I am a Computer Science student passionate about building modern web applications and exploring new technologies.
+I enjoy working with full-stack development, learning system design, and improving my problem-solving skills through
+projects and hands-on practice. I believe in learning by building and constantly refining my craft 🚀
+</p>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tushar-41&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+- Mail me: **tusharkmr4126@gmail.com**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tushar-41&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+<div align="center">
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=js,ts,python,java,c"/></td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express"/></td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/></td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=git,github,docker,vscode"/></td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=tushar-41&theme=dark&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tushar-41&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-41&layout=compact&theme=dark)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=tushar-41&theme=radical&no-frame=false)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=tushar-41&icon=0&color=11)](https://visitcount.itsvg.in)
