@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Tushar Kumar</h1>
+  <h1>Hi, I'm Tushar Kumar 👋</h1>
 </div>
 
 <div align="center">
@@ -8,11 +8,17 @@
   <a href="https://x.com/tushar__46" target="_blank">X (Twitter)</a>
 </div>
 
+
 <br>
 
 <div align="center">
-<img src="https://tenor.com/view/coding-gif-18657810.gif" style="width: 100%" />
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="70%"
+    alt="coding animation"
+  />
 </div>
+
 
 <br>
 
