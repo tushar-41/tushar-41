@@ -36,7 +36,16 @@ solutions until they feel obvious in hindsight — simple on the surface, though
 ### What I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,git,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui,redux,webpack&perline=7" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,firebase&perline=7" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,prisma&perline=7" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,kubernetes,vercel,aws,nginx,postman,figma&perline=7" />
 </p>
 
 ---
