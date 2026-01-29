@@ -24,11 +24,25 @@
 
 <div align="center">
 <p>
-I am a Computer Science student passionate about building modern web applications and exploring new technologies.
-I enjoy working with full-stack development, learning system design, and improving my problem-solving skills through
-projects and hands-on practice. I believe in learning by building and constantly refining my craft 🚀
+I build software with a strong focus on clarity, performance, and real-world usability.
+My work revolves around designing scalable web applications, writing maintainable code,
+and turning complex ideas into simple, reliable systems. I care deeply about fundamentals,
+architecture, and developer experience—not just shipping features, but shipping them right.
+
+I enjoy working across the stack, experimenting with modern tooling, and continuously
+refining how I think about problems. Whether it’s crafting clean UIs, structuring APIs,
+or optimizing workflows, I approach every project with intent and precision.
 </p>
 </div>
+
+<div align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3g0b3FndTR3bmdnMWk5ajhvdTQ2ZzdtZW82d2Y1dnNtaW91Z3R6eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="65%"
+    alt="developer coding"
+  />
+</div>
+
 
 - Mail me: **tusharkmr4126@gmail.com**
 
