@@ -1,86 +1,76 @@
-<div align="center">
-  <h1>Hi, I'm Tushar Kumar 👋</h1>
-</div>
+<h2 align="center">
+  Tushar Kumar
+</h2>
 
-<div align="center">
-  <a href="#" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/tushar46" target="_blank">LinkedIn</a> •
-  <a href="https://x.com/tushar__46" target="_blank">X (Twitter)</a>
-</div>
-
-
-<br>
-
-<div align="center">
-  <img 
-    src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"
-    width="70%"
-    alt="coding animation"
-  />
-</div>
-
-
-<br>
-
-<div align="center">
-<p>
-I build software with a strong focus on clarity, performance, and real-world usability.
-My work revolves around designing scalable web applications, writing maintainable code,
-and turning complex ideas into simple, reliable systems. I care deeply about fundamentals,
-architecture, and developer experience—not just shipping features, but shipping them right.
-
-I enjoy working across the stack, experimenting with modern tooling, and continuously
-refining how I think about problems. Whether it’s crafting clean UIs, structuring APIs,
-or optimizing workflows, I approach every project with intent and precision.
+<p align="center">
+  <em>Building software with intent, structure, and clarity.</em>
 </p>
-</div>
 
-
-- Mail me: **tusharkmr4126@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=js,ts,python,java,c"/></td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/></td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express"/></td>
-</tr>
-<tr>
-<td><b>Database</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/></td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=git,github,docker,vscode"/></td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tushar46">LinkedIn</a> ·
+  <a href="https://x.com/tushar__46">X</a> ·
+  <a href="#">Portfolio</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=tushar-41&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tushar-41&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-41&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="65%" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+### About
 
-![](https://github-profile-trophy.vercel.app/?username=tushar-41&theme=radical&no-frame=false)
+I approach software as a system, not just a set of features.
+
+I focus on building applications that are **cleanly structured**, **easy to reason about**, and
+**designed to scale without becoming fragile**. I care deeply about fundamentals — how data flows,
+how components interact, and how decisions made early affect long-term maintainability.
+
+My interests span full-stack development, API design, and modern web tooling. I enjoy refining
+solutions until they feel obvious in hindsight — simple on the surface, thoughtful underneath.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=tushar-41&icon=0&color=11)](https://visitcount.itsvg.in)
+### What I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,git,docker&perline=7" />
+</p>
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar-41&show_icons=true&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tushar-41&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-41&layout=compact&hide_border=true&theme=dark" />
+</p>
+
+---
+
+### Recognition
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tushar-41&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### Contact
+
+If something here resonates, feel free to reach out.
+
+- 📧 **tusharkmr4126@gmail.com**
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=tushar-41&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</p>
