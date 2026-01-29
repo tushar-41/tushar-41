@@ -13,7 +13,7 @@
 
 <div align="center">
   <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)"
     width="70%"
     alt="coding animation"
   />
@@ -33,14 +33,6 @@ I enjoy working across the stack, experimenting with modern tooling, and continu
 refining how I think about problems. Whether it’s crafting clean UIs, structuring APIs,
 or optimizing workflows, I approach every project with intent and precision.
 </p>
-</div>
-
-<div align="center">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3g0b3FndTR3bmdnMWk5ajhvdTQ2ZzdtZW82d2Y1dnNtaW91Z3R6eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="65%"
-    alt="developer coding"
-  />
 </div>
 
 
