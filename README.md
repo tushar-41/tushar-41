@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tushar46">LinkedIn</a> ·
   <a href="https://x.com/tushar__46">X</a> ·
-  <a href="#">Portfolio</a>
+  <a href="https://tushar-portfolio-dev.vercel.app/">Portfolio</a>
 </p>
 
 ---
