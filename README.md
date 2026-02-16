@@ -55,16 +55,6 @@ solutions until they feel obvious in hindsight — simple on the surface, though
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-41&layout=compact&hide_border=true&theme=dark" />
 </p>
 
----
-
-### Recognition
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tushar-41&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ### Contact
 
 If something here resonates, feel free to reach out.
