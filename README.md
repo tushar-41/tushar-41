@@ -25,11 +25,11 @@
 I approach software as a system, not just a set of features.
 
 I focus on building applications that are **cleanly structured**, **easy to reason about**, and
-**designed to scale without becoming fragile**. I care deeply about fundamentals — how data flows,
+**designed to scale without becoming fragile**. I care deeply about fundamentals how data flows,
 how components interact, and how decisions made early affect long-term maintainability.
 
 My interests span full-stack development, API design, and modern web tooling. I enjoy refining
-solutions until they feel obvious in hindsight — simple on the surface, thoughtful underneath.
+solutions until they feel obvious in hindsight simple on the surface, thoughtful underneath.
 
 ---
 
